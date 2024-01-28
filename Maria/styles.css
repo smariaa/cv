@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+    text-align: center;
+    color: #333;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#contact p, #profile p, #personal p, #education p, #experiences ul, #activities ul {
+    margin: 10px 0;
+}
+
+#profile p {
+    text-align: justify;
+}
+
+section h3 {
+    margin-top: 0;
+}
+
+#contact {
+    background-color: #f5f5f5;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+#profile {
+    background-color: #e0f2f1;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+#software, #attributes, #personal, #education, #experiences, #activities {
+    background-color: #e3f2fd;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+#software ul, #attributes ul, #experiences ul, #activities ul {
+    padding-left: 20px;
+}
